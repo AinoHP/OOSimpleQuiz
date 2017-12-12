@@ -1,1 +1,3 @@
-This is a quiz with java-themed questions. Each question has a check function. 
+This is a quiz with 10 java-themed questions. Each question has a check function and a next button.
+Finally, the user gets to see the correct answers.
+
