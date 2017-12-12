@@ -71,7 +71,7 @@ public class QuestionTen extends JFrame {
 		JButton btnNext = new JButton("Next");
 		btnNext.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				QuizResults q = new QuizResults();
+				CorrectAnswers q = new CorrectAnswers();
 				q.setVisible(true);
 			}
 		});
